@@ -1,0 +1,2 @@
+This file was created in the GitNewBranch.
+It is for Git Hands-on Lab (Git-HOL) branching and merging task.
